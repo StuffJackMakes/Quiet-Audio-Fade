@@ -1,8 +1,8 @@
 # Quiet Audio Fade
 
-<img src="./media/Quiet-Audio-Fade_logo.svg" width="160" height="160" alt="Quiet Audio Fade logo">
-
 > *It's [f.lux](https://justgetflux.com) for your ears!*
+
+<img src="./media/Quiet-Audio-Fade_logo.svg" width="160" height="160" alt="Quiet Audio Fade logo">
 
 ---
 
