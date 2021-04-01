@@ -2,23 +2,24 @@
 
 <img src="./media/Quiet-Audio-Fade_logo.svg" width="160" height="160" alt="Quiet Audio Fade logo" align="right">
 
-> *It's [f.lux](https://justgetflux.com) / [Redshift](http://jonls.dk/redshift/) for your ears!*
+> *It's [f.lux](https://justgetflux.com) for your ears!*
 
-Quiet Audio Fade (affectionately known as **Quiet AF**) slowly reduces the volume on your computer over time, letting you find the quietest level that works.
+Quiet Audio Fade (affectionately known as **Quiet AF** slowly reduces the volume on your computer over time, letting you find the quietest level that works.
 
-Get the latest version on the [releases page]().
+Get the latest version on the [releases page](https://github.com/StuffJackMakes/Quiet-Audio-Fade/releases/tag/v1.0).
 
 ---
 
 ## Usage
 *Quiet AF* runs in the system tray like so:
-<img src="./media/screenshots/mac.png"><img src="./media/screenshots/windows.png"><img src="./media/screenshots/ubuntu.png">
 
-Over time it *slowly* decreases your system volume bit by bit.  
+<img src="./media/screenshots/mac.png" width="200px" height="200px"><img src="./media/screenshots/ubuntu.png" width="200px" height="200px"><img src="./media/screenshots/windows.png" width="200px" height="200px">
 
-The options are:
-* <ACTIVE | PAUSED> [Volume] - Displays if *Quiet AF* is currently enabled and what the current volume is. Click to enable/disable *Quiet AF*.
-* Speed [Interval] - How long between each decrease in volume. Higher intervals mean a longer, more subtle decrease. Click to cycle through interval lengths.
+Over time it *slowly* decreases your system volume bit by bit. Eventually you'll notice the sound is a tad too low and you'll increase the volume, which will disable *Quiet AF* and leave your volume at the perfect level - not too loud, not too quiet!
+
+There are **FOUR** things you can do in the app:
+* <ACTIVE | PAUSED> [Volume] - Displays if *Quiet AF* is currently enabled and what the current volume is. Click to enable/disable *Quiet AF*. *Quiet AF* is also disabled whenever you change the volume manually.
+* Speed [Interval] - How much time passes between each decrease in volume. Higher intervals mean a longer, more subtle decrease. Click to cycle through interval lengths.
 * About - Links to this page.
 * Quit - Exits *Quiet AF*.
 
