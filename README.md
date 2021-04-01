@@ -1,10 +1,12 @@
-# Quiet-Audio-Fade
+# Quiet Audio Fade
 
-<img src="./media/Quiet-Audio-Fade_logo.svg" width="160" height="160" alt="Quiet Audio Fade logo" align="right">
+<img src="./media/Quiet-Audio-Fade_logo.svg" width="160" height="160" alt="Quiet Audio Fade logo">
 
 > *It's [f.lux](https://justgetflux.com) for your ears!*
 
-Quiet Audio Fade (affectionately known as **Quiet AF** slowly reduces the volume on your computer over time, letting you find the quietest level that works.
+---
+
+Quiet Audio Fade (affectionately known as **Quiet AF**) slowly reduces the volume on your computer over time, letting you find the quietest level that works.
 
 Get the latest version on the [releases page](https://github.com/StuffJackMakes/Quiet-Audio-Fade/releases/tag/v1.0).
 
